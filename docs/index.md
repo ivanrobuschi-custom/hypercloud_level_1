@@ -21,6 +21,8 @@ Keywords:
   - partner
 ---
 
+![](logo.png)
+
 # HyperRetailCloud StartUp Level 1
 
 **Dalla prima installazione alla prima vendita** | *Custom S.p.A. © 2026*

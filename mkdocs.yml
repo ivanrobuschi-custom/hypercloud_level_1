@@ -45,9 +45,9 @@ copyright: Copyright Custom S.p.A 2026
 
 nav:
   - Introduzione: index.md
-  - "Cap. 1 — HyperLand: Gestione Licenze": cap1_hyperland.md
-  - "Cap. 2 — HyperLand: Anagrafiche e Schermate": cap2_anagrafiche.md
-  - "Cap. 3 — Primo Accesso e Configurazione": cap3_primo_accesso.md
-  - "Cap. 4 — Avvio Software e Anagrafiche": cap4_avvio_software.md
-  - "Cap. 5 — Primo Documento Commerciale": cap5_primo_scontrino.md
-  - "Cap. 6 — Azzeramento Fiscale": cap6_azzeramento.md
+  - "Gestione Licenze": cap1_hyperland.md
+  - "Anagrafiche e Schermate": cap2_anagrafiche.md
+  - "Primo Accesso e Configurazione": cap3_primo_accesso.md
+  - "Avvio Software e Anagrafiche": cap4_avvio_software.md
+  - "Primo Documento Commerciale": cap5_primo_scontrino.md
+  - "Azzeramento Fiscale": cap6_azzeramento.md
