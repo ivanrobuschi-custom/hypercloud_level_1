@@ -20,7 +20,7 @@ Keywords:
   - telematico
 ---
 
-# Cap. 5 — Emissione del Primo Documento Commerciale
+# Emissione del Primo Documento Commerciale
 
 **HyperRetailCloud StartUp Level 1** | *Custom S.p.A. © 2026*
 

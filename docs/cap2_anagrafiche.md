@@ -22,7 +22,7 @@ Keywords:
   - barcode-cloud
 ---
 
-# Cap. 2 — HyperLand: Anagrafiche e Schermate di Vendita
+# HyperLand: Anagrafiche e Schermate di Vendita
 
 **HyperRetailCloud StartUp Level 1** | *Custom S.p.A. © 2026*
 

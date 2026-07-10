@@ -21,7 +21,7 @@ Keywords:
   - barcode
 ---
 
-# Cap. 4 — Avvio Software su Windows e Android, Anagrafiche in loco
+# Avvio Software su Windows e Android, Anagrafiche in loco
 
 **HyperRetailCloud StartUp Level 1** | *Custom S.p.A. © 2026*
 

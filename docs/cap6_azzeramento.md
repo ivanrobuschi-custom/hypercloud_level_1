@@ -20,7 +20,7 @@ Keywords:
   - report-cassa
 ---
 
-# Cap. 6 — Azzeramento Fiscale di Giornata
+# Azzeramento Fiscale di Giornata
 
 **HyperRetailCloud StartUp Level 1** | *Custom S.p.A. © 2026*
 

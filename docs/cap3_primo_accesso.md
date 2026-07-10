@@ -19,7 +19,7 @@ Keywords:
   - setup
 ---
 
-# Cap. 3 — Primo Accesso, Configurazione Postazione e Stampanti
+# Primo Accesso, Configurazione Postazione e Stampanti
 
 **HyperRetailCloud StartUp Level 1** | *Custom S.p.A. © 2026*
 
