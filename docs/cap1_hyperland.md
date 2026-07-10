@@ -21,6 +21,11 @@ Keywords:
   - partner
 ---
 
+<video controls width="680" style="max-width: 100%;">
+  <source src="assets/resources/acquisto_licenza.mp4" type="video/mp4">
+  Il tuo browser non supporta la riproduzione video.
+</video>
+
 # Cap. 1 — HyperLand: La piattaforma di gestione licenze
 
 **HyperRetailCloud StartUp Level 1** | *Custom S.p.A. © 2026*
