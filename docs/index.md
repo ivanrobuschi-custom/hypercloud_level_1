@@ -21,7 +21,7 @@ Keywords:
   - partner
 ---
 
-![](logo.png)
+![Logo HyperRetailCloud](assets/icons/logo.png)
 
 # HyperRetailCloud StartUp Level 1
 
